@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheuneegh.islandhoppersfijifreefall.com/sitemap.xml
